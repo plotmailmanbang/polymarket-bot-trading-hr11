@@ -1,4 +1,4 @@
-# 
+# AI-powered bot for Polymarket - price-monitoring and trailing-stops offers the most advanced Polymarket bot, with price-monitoring and trailing-stops. Ideal for professional
 
 
 
